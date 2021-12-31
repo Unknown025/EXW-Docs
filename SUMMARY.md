@@ -14,6 +14,7 @@
   * [GunType](reference/GunType.md)
   * [JsonItemStack](reference/JsonItemStack.md)
   * [MArmorType](reference/MArmorType.md)
+  * [RecordType](reference/RecordType.md)
   * [SeatInfo](reference/SeatInfo.md)
   * [SkinType](reference/SkinType.md)
   * [SoundEntry](reference/SoundEntry.md)
