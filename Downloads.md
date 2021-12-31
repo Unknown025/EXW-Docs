@@ -1,4 +1,9 @@
+---
+description: List of official downloads
+---
+
 # Downloads
+
 ### Expansive Weaponry can be downloaded from the following official sources
 
 * rainyville.org/expansive-weaponry/downloads
