@@ -24,7 +24,7 @@
   * [WeaponScopeType](reference/WeaponScopeType.md)
   * [WeaponType](reference/WeaponType.md)
   * [EXWPack.info](reference/exwpackinfo.md)
-* [Model Reference](reference/model/ModelConfig.md)
+* [Model Reference](reference/model/README.md)
   * [ModelConfig](reference/model/ModelConfig.md)
   * [ModelTransform](reference/model/ModelTransform.md)
   * [TransformType](reference/model/TransformType.md)
