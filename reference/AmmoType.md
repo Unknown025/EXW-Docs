@@ -16,3 +16,4 @@ For each type, the table will list each config and potentially its purpose and d
 | allowEmptyMagazines | boolean                             | true                               | Override ammo deletion, to allow for enabling or disabling of returned empty magazines.             |
 | refillCost          | [JsonItemStack](JsonItemStack.md)[] | \[{"id": "gunpowder", "count": 2}] | Cost to refill this magazine, per each missing bullet. Set to `null` to disable magazine refilling. |
 | subAmmo             | String[]                            | -                                  | The ammo type(s) that can be loaded into this item.                                                 |
+| potionEffects       | [PotionEntry](PotionEntry.md)[]     | -                                  | Array of potion effects applied to an entity upon bullet impact.                                    |
