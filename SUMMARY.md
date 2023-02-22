@@ -21,6 +21,7 @@
     * [SkinType](reference/SkinType.md)
     * [SoundEntry](reference/SoundEntry.md)
     * [SoundType](reference/SoundType.md)
+    * [TankType](reference/TankType.md)
     * [VehicleType](reference/VehicleType.md)
     * [WeaponFireMode](reference/WeaponFireMode.md)
     * [WeaponScopeType](reference/WeaponScopeType.md)
