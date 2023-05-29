@@ -5,7 +5,7 @@ For each type, the table will list each config and potentially its purpose and d
 | Keyword           | Type                       | Default        | Purpose                                                                                                                  |
 |-------------------|----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
 | turretOrigin      | [Vec3f](model/Vector3f.md) | (0, 0, 0)      | Sets the origin of the tank's turret (used for calculating the barrel's orientation, if not in the center of the model). |
-| barrelOrigin      | [Vec3f](model/Vector3f.md) | -              | Sets the origin of the tank's barrel (used for calculating where the raytracing should be projected from).               |
+| barrelOrigin      | [Vec3f](model/Vector3f.md) | (0, 0, 0)      | Sets the origin of the tank's barrel (used for calculating where the raytracing should be projected from).               |
 | explosionStrength | float                      | 12F            | Strength of an explosion caused by impacting a block.                                                                    |
 | fireDelay         | int                        | 60 (3 seconds) | Amount of ticks between a player being able to fire again.                                                               |
 | maxBarrelAngle    | float                      | 25F            | Maximum angle the barrel can pivot.                                                                                      |
