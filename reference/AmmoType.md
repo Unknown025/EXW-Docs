@@ -17,3 +17,4 @@ For each type, the table will list each config and potentially its purpose and d
 | refillCost          | [JsonItemStack](JsonItemStack.md)[] | \[{"id": "gunpowder", "count": 2}] | Cost to refill this magazine, per each missing bullet. Set to `null` to disable magazine refilling. |
 | subAmmo             | String[]                            | -                                  | The ammo type(s) that can be loaded into this item.                                                 |
 | potionEffects       | [PotionEntry](PotionEntry.md)[]     | -                                  | Array of potion effects applied to an entity upon bullet impact.                                    |
+| explosionSize       | Integer                             | null                               | When set and greater than zero, this will cause an explosion on impact with a block.                |
