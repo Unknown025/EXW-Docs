@@ -2,7 +2,7 @@
 
 ## This file defines basic metadata for your content pack.
 
-Having an exwpack.info file will be required as of v1.2.0 for your content pack to be loaded.
+Having an exwpack.info file will be required as of **v1.2.0** for your content pack to be loaded.
 
 | Keyword           | Type     | Default | Required           | Explanation                                                                                                                                                                                                                           |
 |-------------------|----------|---------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -16,6 +16,7 @@ Having an exwpack.info file will be required as of v1.2.0 for your content pack 
 | ~~buildRevision~~ | Integer  | -       |                    | The target API revision.<br/><br/>**Deprecated:** Please update to _targetAPI_.                                                                                                                                                       |
 | targetAPI         | String   | -       | :heavy_check_mark: | The target API version this pack is made for. Please consult the [dev page](https://exw.rainyville.org/dev/api-targets) for more details. Leaving this field blank while specifying `buildRevision` will default to Target API 1.0.0. |
 | dependencies      | String[] | []      |                    | List of content pack dependencies. List content packs by their pack ID, EXW will verify they are present during load time.                                                                                                            |
+| creativeTabIcon   | String   | -       |                    | Sets the creative tab icon to the item ID provided.                                                                                                                                                                                   |
 
 This file should be in the root directory of your content pack.
 If it cannot be located at runtime, default values will be used.
