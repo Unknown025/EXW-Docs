@@ -23,3 +23,4 @@ The following are available values that apply to any field requiring parameter `
 | IMPACT_SOFT     | impactSoft           |
 | ENGINE_START    | engineStart          |
 | ENGINE_RUNNING  | engineRunning        |
+| VEHICLE_HORN    | horn                 |

@@ -20,4 +20,4 @@ content pack is named "Modern Warfare" and you're adding a vehicle model, it wou
 
 ### Metasequoia
 Metasequoia models follow the same format as OBJ models, except instead of "wavefront",
-models go into a "metaseq" folder, such as `Modern Warfare/assets/exw/metaseq/vehicles`.
+models go into a "metaseq" folder, such as `Modern Warfare/assets/exw/metaseq/vehicles/`.
